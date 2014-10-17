@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[quy:home|Door43 (quy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-quy|d43-quy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-quy/archive/master.zip|d43-quy.zip]]
+
+**Recent Changes**
+{{changes>ns = quy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/quy|Ethnologue data]]
+
